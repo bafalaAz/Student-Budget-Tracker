@@ -24,7 +24,7 @@ Choose an option:
 Example Input
 1
 Food
-12.50$
+12.50
 
 Example Output
 Expense added!
