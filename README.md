@@ -11,7 +11,8 @@ Run (Mac/Linux)
 Run (Windows)
 tracker.exe
 
-Example Menu Output
+      Example Menu Output
+      
 ===== Student Expense Tracker =====
 1. Add Expense
 2. View Total Expenses
